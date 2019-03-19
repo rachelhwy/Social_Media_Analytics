@@ -1,0 +1,2 @@
+# Finding the influencer
+This project particularly focus on who's the influencer on the twitter. We scraped data from twitter using twitter API to find accounts that related to "data scientist topic". We used varies machine learning methods to predict which attributes (such as followers, listed count, mentioned received etc.) are significant for detecting the influence. Then create a new metric by giving weights to different important attributed, then sorted the score to find the top 50 influencers. 
